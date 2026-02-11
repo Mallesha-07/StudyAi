@@ -5,7 +5,6 @@ StudyGenie AI is an adaptive learning platform that transforms passive studying 
 Unlike traditional note generators, StudyGenie focuses on cognitive improvement. It integrates active recall, adaptive difficulty scaling, and a LevelUp progression engine to help students identify weak concepts, prevent forgetting, and improve long-term retention.
 
 Key Features
-
 • PDF and video ingestion with structured knowledge extraction
 • Automatic quiz generation based on concepts
 • Weak-topic detection at concept level
